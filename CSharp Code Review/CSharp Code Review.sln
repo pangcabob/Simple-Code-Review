@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code Review", "Code Review\Code Review.csproj", "{5015BA8C-426C-4BEC-AE75-3134C2FAB771}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeReview", "CodeReview\CodeReview.csproj", "{E0073FB0-43F2-4695-AEBE-EAD7D1112F90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5015BA8C-426C-4BEC-AE75-3134C2FAB771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5015BA8C-426C-4BEC-AE75-3134C2FAB771}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5015BA8C-426C-4BEC-AE75-3134C2FAB771}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5015BA8C-426C-4BEC-AE75-3134C2FAB771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0073FB0-43F2-4695-AEBE-EAD7D1112F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0073FB0-43F2-4695-AEBE-EAD7D1112F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0073FB0-43F2-4695-AEBE-EAD7D1112F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0073FB0-43F2-4695-AEBE-EAD7D1112F90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
